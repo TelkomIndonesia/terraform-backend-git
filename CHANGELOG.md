@@ -7,11 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.0-rc1] - 2024-10-1
+## [0.2.0-rc2] - 2024-10-1
 
-### Changed
+### Added
 
-- Use commit amend when updating state to maintain repo size
+- New `--amend` flag to use commit amend + force push when updating state to maintain repo size
 
 ## [0.1.6] - 2023-09-21
 
